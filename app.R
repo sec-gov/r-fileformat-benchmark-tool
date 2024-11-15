@@ -1,3 +1,7 @@
+# This tool was created by staff of the U.S. Securities and Exchange Commission.
+# Data and content created by government employees within the scope of their employment
+# are not subject to domestic copyright protection. 17 U.S.C. 105.
+
 # File Format Benchmarking Tool Version 0.1
 
 # This file, "app.R", is a self-contained application that enables users to perform file format benchmarking via a shiny interface. To run the application, first open this file in RStudio, next install the suggested libraries, and finally press the "Run App" button. 
